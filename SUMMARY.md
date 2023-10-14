@@ -5,12 +5,13 @@
 ## Project
 
 * [Project Overview](project/overview.md)
-
-## Pilot Implementation <a href="#pilot" id="pilot"></a>
-
-* [Pilot Overview](pilot/overview.md)
+* [Protocol Litepaper](project/litepaper.md)
 
 ## Community
 
 * [Community Overview](community/overview.md)
-* [Roles](community/roles.md)
+* [Community Roles](community/roles.md)
+
+## Implementation <a href="#pilot" id="pilot"></a>
+
+* [Pilot Overview](pilot/overview.md)
