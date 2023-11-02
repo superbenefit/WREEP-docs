@@ -12,4 +12,4 @@
 
 ***
 
-* [Code of Conduct](code\_of\_conduct.md)
+* [Code of Conduct](CODE\_OF\_CONDUCT.md)
