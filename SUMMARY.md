@@ -9,3 +9,7 @@
 ## Community
 
 * [Community Overview](community/readme.md)
+
+***
+
+* [Code of Conduct](code\_of\_conduct.md)
