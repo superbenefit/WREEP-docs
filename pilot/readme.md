@@ -2,7 +2,7 @@
 
 The end-term goal of the WREEP Project is to pilot the proposed energy labeling protocol in [Durham Region](https://www.durham.ca/en/index.aspx), Canada.
 
-The proposed protocol will be used to augment Durham Region's ongoing residential energy retrofit efforts, requiring coordination among owners, occupants, utility providers, local governments and other entities. The WREEP project will accomplish this by convening a Pilot Stakeholder group to gather critical and signals of consent or dissent at key stages.
+The proposed protocol will be used to augment Durham Region's ongoing residential energy retrofit efforts, requiring coordination among owners, occupants, utility providers, local governments and other entities. The WREEP project will accomplish this by convening a Pilot Stakeholder group to gather important information and signals of consent or dissent at key stages.
 
 ## Pilot Stakeholders
 

@@ -1,4 +1,7 @@
 # Table of contents
+<!--
+Pages in the root directory can be tricky to manage in gitbook. You may need to edit this file manually using git to update the table of contents.
+-->
 
 * [Windfall Residential Energy Efficiency Project](README.md)
 
@@ -13,4 +16,7 @@
 ## Community
 
 * [Community Overview](community/readme.md)
-* [Code of Conduct](community/code\_of\_conduct.md)
+
+***
+
+* [Code of Conduct](code\_of\_conduct.md)
