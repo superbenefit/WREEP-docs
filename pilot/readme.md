@@ -14,3 +14,10 @@ Development of the protocol and litepaper is informed by the Pilot Stakeholder g
 The stakeholder group is responsible for giving feedback and participating in discussions and research activities to inform the design of the energy labeling protocol. Stakeholders may signal dissent or support for contributions to the protocol litepaper to ensure that outputs of this project serve the needs of communities, utilities and other user cohorts.
 
 Stakeholders receive periodic emails from the project containing information related to feedback campaigns, signal proposals and general project updates. They also participate in research/discovery discussion sessions with our engineering partners.
+
+
+
+### Web3 Resources
+
+* [How to set up a crypto/web3 wallet](../community/guides/wallets.md)
+* [An overview of web3](../community/guides/web3.md)

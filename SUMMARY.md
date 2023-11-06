@@ -1,7 +1,4 @@
 # Table of contents
-<!--
-Pages in the root directory can be tricky to manage in gitbook. You may need to edit this file manually using git to update the table of contents.
--->
 
 * [Windfall Residential Energy Efficiency Project](README.md)
 
@@ -16,6 +13,9 @@ Pages in the root directory can be tricky to manage in gitbook. You may need to 
 ## Community
 
 * [Community Overview](community/readme.md)
+* [Guides](community/guides/README.md)
+  * [An Overview of Web3](community/guides/web3.md)
+  * [How to set up a crypto/web3 Wallet](community/guides/wallets.md)
 
 ***
 

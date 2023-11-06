@@ -1,6 +1,6 @@
 # Windfall Residential Energy Efficiency Project
 
-An NFT-enabled protocol for energy efficiency labeling in the built environment.
+An NFT-enabled protocol for energy efficiency labelling in the built environment.
 
 * [WREEP Community Group Chat](https://discord.gg/6mDepqjgh2)
 * [WREEP Community Events Calendar](https://lu.ma/wreep)
@@ -17,7 +17,7 @@ The purpose of the WREEP project is to design a protocol for a dynamic blockchai
 
 ## [WREEP Community](community/)
 
-Community Members are web3 citizens, builders and other interested parties who follow the project and contribute to the development of decentralized coordination tooling, services, infrastructure, and incentives for place-based energy and efficiency initiatives.
+Community Members are sustainable energy industry organisations and individuals, web3 citizens and builders and other interested parties who follow the project. The goal of the community is to contribute ideas and resources to the development and implementation of the energy efficiency protocol itself, as well as innovation on top of the protocol for new initiatives. &#x20;
 
 ### Community Health Resources
 
