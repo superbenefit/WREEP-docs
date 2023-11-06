@@ -6,6 +6,13 @@ Community Members are responsible for generating feedback and signals (such as a
 
 Members are invited to attend welcome events and monthly Town Hall calls, submit feedback and author/vote on community proposals.
 
+## Responsibilities
+
+To be considered active and eligible for rewards, all community members must make a reasonable effort to fulfill these role responsibilities.
+
+- Participate in the #wreep-community chat channel by discussing the protocol and potential use cases with other community members.
+- Attend monthly community calls (or listen to their recordings) to learn about the project and its latest progress updates.
+
 ## Eligibility
 
 Community members are expected to adhere to these eligibility requirements in order to retain access and privileges tied to their memebrship.
@@ -14,6 +21,19 @@ Community members are expected to adhere to these eligibility requirements in or
 - Adhere to the [Code of Conduct](/CODE_OF_CONDUCT.md)
 
 This community is managed by SuperBenefit's WREEP Web3 Core Team, who reserve the right to change eligibility requirements, remove inactive members and otherwise alter the terms of membership as needed during the project.
+
+## How To Join
+
+Membership is available to all aligned members of the web3 community. To join, you must agree to [code of conduct](/code_of_conduct.md) and privacy policy.
+
+Follow the steps below to join the WREEP comunity and receive your NFT role badge:
+
+- Create an [Ethereum Wallet](https://www.mybff.com/discover/wtf-is-a-crypto-wallet).
+- Join the [SuperBenefit Discord Server](https://discord.gg/6mDepqjgh2)
+- Fill out the [Signup Form](https://wreep.deform.cc/community-signup) to receive your WREEP Community Member role badge.
+- Wait for a member of the project team to process your application. The team member will then ping you in the chat and welcome you to the community.
+
+[WREEP Community Signup Form](https://wreep.deform.cc/community-signup)
 
 ## ⚡ Rewards for Participation
 
