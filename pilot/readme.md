@@ -19,5 +19,5 @@ Stakeholders receive periodic emails from the project containing information rel
 
 ### Web3 Resources
 
-* [How to set up a crypto/web3 wallet](../community/guides/wallets.md)
+* [How to set up a crypto/web3 wallet](broken-reference)
 * [An overview of web3](../community/guides/web3.md)
