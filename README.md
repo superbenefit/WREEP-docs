@@ -17,7 +17,9 @@ The purpose of the WREEP project is to design a protocol for a dynamic blockchai
 
 ## [WREEP Community](community/)
 
-Community Members are sustainable energy industry organisations and individuals, web3 citizens and builders and other interested parties who follow the project. The goal of the community is to contribute ideas and resources to the development and implementation of the energy efficiency protocol itself, as well as innovation on top of the protocol for new initiatives. &#x20;
+Community Members are sustainable energy industry organisations and individuals, web3 citizens and builders and other interested parties who follow the project. The goal of the community is to contribute ideas and resources to the development and implementation of the energy efficiency protocol itself, as well as innovation on top of the protocol for new initiatives.&#x20;
+
+* [Join the WREEP Community ](community/)
 
 ### Community Health Resources
 
