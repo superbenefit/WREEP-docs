@@ -1,7 +1,7 @@
 ---
 description: >-
-  The community $ENERGY token - rewarded for community participation, used to
-  unlock access to voting and community features.
+  The community $ENERGY token is rewarded for community participation and used
+  to unlock access to voting and community features.
 ---
 
 # Understanding the $ENERGY Token
