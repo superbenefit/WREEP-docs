@@ -1,6 +1,8 @@
 # Windfall Residential Energy Efficiency Project
 
-An NFT-enabled protocol for energy efficiency labelling in the built environment.
+A blockchain-based protocol for multi-stakeholder coordination to accelerate residential energy efficiency retrofits.&#x20;
+
+
 
 * [WREEP Community Group Chat](https://discord.gg/6mDepqjgh2)
 * [WREEP Community Events Calendar](https://lu.ma/wreep)
@@ -9,15 +11,30 @@ An NFT-enabled protocol for energy efficiency labelling in the built environment
 
 ## [Project Overview](project/)
 
-The purpose of the WREEP project is to design a protocol for a dynamic blockchain asset which can be used in subsequent work to develop and test blockchain-based residential energy efficiency labeling and data systems for use in a portal for homeowners and occupants.
+Energy usage in residential buildings is one of the largest contributors to greenhouse gas emissions.&#x20;
 
-* Coordinate subject matter experts, utility providers and local stakeholders to inform the development of the protocol.
-* Develop a proposed labeling protocol design (litepaper) for residential buildings to be used by their owners and occupants.
-* Engage and anonymously identify the wider community of web3 builders who may implement and extend the protocol by issuing blockchain assets to their wallets as a reward for participation.
+Governments at all levels have long recognized energy efficiency retrofits as effective programs that simultaneously achieve environment, employment, and civic awareness goals. Unlocking their full potential however is a massive multi-party coordination challenge across contractors, vendors, utility providers, and owners and occupants… a challenge further complicated by the scope and timing of benefits of efficiency investments extending well beyond an owner or occupants purchase decisions.
+
+The purpose of the WREEP project is to design a blockchain-based protocol that can help address these multi-party coordination challenges.
+
+**The protocol will:**
+
+1. Hold verifiable proofs of energy audits and completed retrofits.
+2. Allow owners and occupants to share energy data to verify efficiency outcomes.
+3. Allow incentive providers to design and deploy targeted and performance based incentives.
+
+\
+**The WREEP project will:**&#x20;
+
+* Design the Protocol:
+  * Establish a **Pilot Stakeholder Group**. Coordinate subject matter experts, utility providers and other local stakeholders to inform the design of the protocol.&#x20;
+  * Develop a protocol design "Litepaper", outlining a highlevel technical design for the protocol  based on a pilot implementation in the Durham region of Canada.&#x20;
+* Implement the pilot - develop the protocol for use in the Durham region &#x20;
+* Engage a wider **Project Community -** these are organisations and individuals from around the world and across sectors, including web3 builders who have an interest in this project and its wider applications beyond the Litepaper and the implementation of the initial pilot project.
 
 ## [WREEP Community](community/)
 
-Community Members are sustainable energy industry organisations and individuals, web3 citizens and builders and other interested parties who follow the project. The goal of the community is to contribute ideas and resources to the development and implementation of the energy efficiency protocol itself, as well as innovation on top of the protocol for new initiatives.&#x20;
+Community Members are sustainable energy industry organisations and individuals, web3 citizens and builders and other interested parties who follow the project. The goal of the community is to contribute ideas and resources to the development and implementation of the energy efficiency protocol itself, as well as suggestion and developing innovation on top of the protocol.&#x20;
 
 * [Join the WREEP Community ](community/)
 
