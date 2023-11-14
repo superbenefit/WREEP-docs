@@ -1,16 +1,16 @@
 # Community Overview
 
-The WREEP Community consists of project stewards, stakeholders, web3 citizens and builders, as well as interested parties from across the wider energy efficiency/retrofit industry globally. This community will follow the project and contribute to its development. This includes the early phases of scoping and publishing the Litepaper, through to implementation of the protocol in the Durham region of Canada, and on to broader implementation and innovation opportunities internationally. &#x20;
+The WREEP Community consists of project stewards, stakeholders, web3 citizens and builders, as well as interested parties from across the wider energy efficiency/retrofit industry globally. This community will follow the project and contribute to its development. This includes the early phases of scoping and publishing the Litepaper, through to implementation of the protocol in the Durham region of Canada, and on to broader implementation and innovation opportunities. &#x20;
 
 ## Membership
 
-Community Members are responsible for generating feedback and signals (such as approval or dissent) for various aspects and stages of the protocol during its development. Its continuing purpose will be to contribute to the development of decentralized coordination tooling, services, infrastructure, and incentives around the protocol in the context of place-based energy and efficiency retrofit initiatives.
+Community Members are responsible for generating feedback and signals (such as approval or dissent) for various aspects and stages of the protocol during its development. Its continuing purpose will be to contribute to the ongoing development of he protocol including decentralized coordination tooling, services, infrastructure, and incentives in the context of place-based energy and efficiency retrofit initiatives.
 
 Members are invited to attend welcome events and monthly Town Hall calls, submit feedback and author/vote on community proposals.
 
 ### Responsibilities
 
-To be considered active and eligible for rewards, all community members must make a reasonable effort to fulfill these role responsibilities.
+To be considered active and eligible for rewards, all community members must make a reasonable effort to fulfil these role responsibilities.
 
 * Participate in the #wreep-community chat channel by discussing the protocol and potential use cases with other community members.
 * Attend monthly community calls (or listen to their recordings) to learn about the project and its latest progress updates.
