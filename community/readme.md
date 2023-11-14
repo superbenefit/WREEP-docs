@@ -1,6 +1,6 @@
 # Community Overview
 
-The WREEP Community consists of project stewards, stakeholders, web3 citizens and builders, as well as interested organisations and individuals from across the wider energy efficiency/retrofit industry globally. This community will follow the project and contribute to its development. This includes the  early phases of scoping and publishing the NFT Litepaper, through to implementation of the protocol in the Durham region of Canada, and on to broader implementation and innovation opportunities internationally. &#x20;
+The WREEP Community consists of project stewards, stakeholders, web3 citizens and builders, as well as interested parties from across the wider energy efficiency/retrofit industry globally. This community will follow the project and contribute to its development. This includes the early phases of scoping and publishing the Litepaper, through to implementation of the protocol in the Durham region of Canada, and on to broader implementation and innovation opportunities internationally. &#x20;
 
 ## Membership
 
