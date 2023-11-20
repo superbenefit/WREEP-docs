@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: false
+---
+
 # Windfall Residential Energy Efficiency Project
 
 A blockchain-based protocol for multi-stakeholder coordination to accelerate residential energy efficiency retrofits.&#x20;
