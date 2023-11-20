@@ -26,7 +26,7 @@ This community is managed by SuperBenefit's WREEP Web3 Core Team, who reserve th
 
 ### Rewards for Participation
 
-Participation in this project will be tracked using [Sourcecred](https://github.com/superbenefit/sourcecred). Participants will be awarded our community token, $ENERGY (⚡), to acknowledge their engagement and contributions. You can learn more about how to earn $ENERGY [here](guides/understanding-the-usdenergy-token.md).
+Participation in this project will be tracked using [Sourcecred](https://github.com/superbenefit/sourcecred). Participants will be awarded our community token, $ENERGY (⚡), to acknowledge their engagement and contributions. You can learn more about how to earn $ENERGY [here](token.md).
 
 ### How To Join
 
@@ -44,4 +44,4 @@ Follow the steps below to join the WREEP community and receive your NFT role bad
 
 ## ⚡ Community Token ($ENERGY)
 
-[$ENERGY's](guides/understanding-the-usdenergy-token.md) purpose is to facilitate the possibility of retrospective utility drops such as community privileges, contribution opportunities, governance weight, or other perks. It is intended to have zero monetary value (even in the future).
+[$ENERGY's](token.md) purpose is to facilitate the possibility of retrospective utility drops such as community privileges, contribution opportunities, governance weight, or other perks. It is intended to have zero monetary value (even in the future).

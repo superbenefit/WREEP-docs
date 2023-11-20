@@ -4,7 +4,7 @@ description: >-
   to unlock access to voting and community features.
 ---
 
-# ⚡ Understanding the $ENERGY Token
+# Rewards ($ENERGY)
 
 ### **Who is eligible to earn $ENERGY?**
 

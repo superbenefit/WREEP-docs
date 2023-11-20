@@ -5,16 +5,13 @@
 ## Project
 
 * [Project Overview](project/readme.md)
-
-## Pilot
-
-* [Pilot Overview](pilot/readme.md)
+* [Pilot Overview](project/pilot.md)
 
 ## Community
 
 * [Community Overview](community/readme.md)
+* [Rewards ($ENERGY)](community/token.md)
 * [Guides](community/guides/README.md)
-  * [⚡ Understanding the $ENERGY Token](community/guides/understanding-the-usdenergy-token.md)
   * [An Overview of Web3](community/guides/web3.md)
   * [Creating a web3 Wallet](community/guides/wallets.md)
 
