@@ -40,8 +40,6 @@ Follow the steps below to join the WREEP community and receive your NFT role bad
 * Wait for a member of the project team to process your application. The team member will then ping you in the chat and welcome you to the community.
 * Start participating in project conversations in Discord
 
-
-
 ## ⚡ Community Token ($ENERGY)
 
 [$ENERGY's](token.md) purpose is to facilitate the possibility of retrospective utility drops such as community privileges, contribution opportunities, governance weight, or other perks. It is intended to have zero monetary value (even in the future).
