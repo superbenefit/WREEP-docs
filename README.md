@@ -12,11 +12,9 @@ layout:
     visible: false
 ---
 
-# Windfall Residential Energy Efficiency Project
+# Windfall Residential Energy Efficiency Protocol (WREEP) Project
 
 A blockchain-based protocol for multi-stakeholder coordination to accelerate residential energy efficiency retrofits.&#x20;
-
-
 
 * [WREEP Community Group Chat](https://discord.gg/6mDepqjgh2)
 * [WREEP Community Events Calendar](https://lu.ma/wreep)
@@ -50,7 +48,7 @@ The purpose of the WREEP project is to design a blockchain-based protocol that c
 
 Community Members are sustainable energy industry organisations and individuals, web3 citizens and builders and other interested parties who follow the project. The goal of the community is to contribute ideas and resources to the development and implementation of the energy efficiency protocol itself, as well as suggestion and developing innovation on top of the protocol.&#x20;
 
-* [Join the WREEP Community ](community/)
+* [Join the WREEP Community](community/)
 
 ### Community Health Resources
 
