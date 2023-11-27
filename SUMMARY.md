@@ -16,7 +16,6 @@
   * [Creating a web3 Wallet](community/guides/wallets.md)
 * [Rewards ($ENERGY)](community/token.md)
 
-
 ***
 
 * [Code of Conduct](code\_of\_conduct.md)
