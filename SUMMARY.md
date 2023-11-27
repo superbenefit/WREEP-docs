@@ -7,10 +7,10 @@
 
 * [Community Overview](community/readme.md)
 * [Membership](community/membership.md)
+* [Rewards ($ENERGY)](community/token.md)
 * [Guides](community/guides/README.md)
   * [An Overview of Web3](community/guides/web3.md)
   * [Creating a web3 Wallet](community/guides/wallets.md)
-* [Rewards ($ENERGY)](community/token.md)
 
 ***
 
