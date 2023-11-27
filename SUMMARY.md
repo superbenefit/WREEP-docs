@@ -1,11 +1,7 @@
 # Table of contents
 
-* [Windfall Residential Energy Efficiency Project](README.md)
-
-## Project
-
+* [Windfall Residential Energy Efficiency Protocol](README.md)
 * [Project Overview](project/readme.md)
-* [Pilot Overview](project/pilot.md)
 
 ## Community
 

@@ -2,19 +2,17 @@
 
 WREEP is split across 3 different phases with 3 distinct groups who contribute in different ways.&#x20;
 
-## **3 Development Phases**
+## **Development Phases**
 
 1. **Development of the Litepaper** - scoping the design of the protocol in collaboration with stakeholders from across all aspects of the residential retrofit space.
 2. **Implementation of the protocol** - delivering a pilot of the protocol for the Durham region in Canada.
 3. **Broader ecosystem development** - facilitating a wider community of interested parties to contribute ideas, funding and projects that innovate on the pilot version of the protocol.
 
-## **3 Contributing Groups**
+## **Contributing Groups**
 
 1. **Project Stewardship group** - funders and facilitators of the initial phase of the project (see below).
 2. **Pilot Stakeholder Group** - organisations and individuals who directly contribute insights, research and perspectives to the development of the Litepaper (phase 1) and to the implementation of the pilot (phase 2).&#x20;
 3. **Project Community** - the wider community, which includes groups 1 & 2 (above), but also organisations and individuals from around the world and across sectors who have an interest in this project and its wider applications beyond the Litepaper and the specific implementation of the initial pilot project. This group will also explore possibilities for raising funds to implement the protocol as well as to innovate on opportunities that it might create.&#x20;
-
-
 
 ## Project structure
 

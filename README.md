@@ -19,7 +19,6 @@ A blockchain-based protocol for multi-stakeholder coordination to accelerate res
 * [WREEP Community Group Chat](https://discord.gg/6mDepqjgh2)
 * [WREEP Community Events Calendar](https://lu.ma/wreep)
 * [WREEP Community Signup Form](https://wreep.deform.cc/community-signup/)
-* [WREEP Community Docs](https://wreep.docs.superbenefit.org/) ([GitHub](https://github.com/superbenefit/WREEP-docs))
 
 ## [Project Overview](project/)
 
@@ -42,11 +41,11 @@ The purpose of the WREEP project is to design a blockchain-based protocol that c
   * Establish a **Pilot Stakeholder Group**. Coordinate subject matter experts, utility providers and other local stakeholders to inform the design of the protocol.&#x20;
   * Develop a protocol design "Litepaper", outlining a highlevel technical design for the protocol  based on a pilot implementation in [Durham Region](https://www.durham.ca/en/index.aspx), Canada.&#x20;
 * Implement the pilot - develop the protocol for use in Durham Region &#x20;
-* Engage a wider **Project Community -** these are organisations and individuals from around the world and across sectors, including web3 builders who have an interest in this project and its wider applications beyond the Litepaper and the implementation of the initial pilot project.
+* Engage a wider **Project Community -** these are organizations and individuals from around the world and across sectors, including web3 builders who have an interest in this project and its wider applications beyond the Litepaper and the implementation of the initial pilot project.
 
 ## [WREEP Community](community/)
 
-Community Members are sustainable energy industry organisations and individuals, web3 citizens and builders and other interested parties who follow the project. The goal of the community is to contribute ideas and resources to the development and implementation of the energy efficiency protocol itself, as well as suggestion and developing innovation on top of the protocol.&#x20;
+Community Members are sustainable energy industry organizations and individuals, web3 citizens and builders and other interested parties who follow the project. The goal of the community is to contribute ideas and resources to the development and implementation of the energy efficiency protocol itself, as well as suggestion and developing innovation on top of the protocol.&#x20;
 
 * [Join the WREEP Community](community/)
 
