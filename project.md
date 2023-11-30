@@ -14,10 +14,6 @@ WREEP is split across 3 different phases with 3 distinct groups who contribute i
 2. **Pilot Stakeholder Group** - organisations and individuals who directly contribute insights, research and perspectives to the development of the Litepaper (phase 1) and to the implementation of the pilot (phase 2).&#x20;
 3. **Project Community** - the wider community, which includes groups 1 & 2 (above), but also organisations and individuals from around the world and across sectors who have an interest in this project and its wider applications beyond the Litepaper and the specific implementation of the initial pilot project. This group will also explore possibilities for raising funds to implement the protocol as well as to innovate on opportunities that it might create.&#x20;
 
-## Project structure
-
-<figure><img src="../.gitbook/assets/WREEP project outline 2 (2).jpg" alt=""><figcaption></figcaption></figure>
-
 ## Project Stewardship Group
 
 Project Stewards are delegates of the projects contributing organizations who oversee delivery of the funded project. Groups represented by the Project Stewards include:
