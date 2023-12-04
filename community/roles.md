@@ -1,4 +1,4 @@
-# WREEP Community Membership
+# WREEP Community Roles
 
 ## Community Members
 
