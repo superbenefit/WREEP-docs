@@ -3,7 +3,7 @@
 * [Windfall Residential Energy Efficiency Protocol (WREEP) Project](README.md)
 * [Project Overview](project.md)
 
-## Community <a href="#community" id="community"></a>
+## Community
 
 * [WREEP Project Community](community/readme.md)
 * [Guides](community/guides/README.md)
