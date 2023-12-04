@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: false
----
-
 # Privacy Policy
 
 We respect your privacy and are committed to protecting it through our compliance with this privacy policy.
@@ -32,11 +18,9 @@ We act in the capacity of a data processor in situations when you submit Persona
 
 In order to make the Website and Services available to you, or to meet a legal obligation, we may need to collect and use certain Personal Information. If you do not provide the information that we request, we may not be able to provide you with the requested products or services. Any of the information we collect from you may be used for the following purposes:
 
-```
-Send administrative information
-Send product and service updates
-Run and operate the Website and Services
-```
+- Send administrative information
+- Send product and service updates
+- Run and operate the Website and Services
 
 Processing your Personal Information depends on how you interact with the Website and Services, where you are located in the world and if one of the following applies: (i) you have given your consent for one or more specific purposes; (ii) provision of information is necessary for the performance of an agreement with you and/or for any pre-contractual obligations thereof; (iii) processing is necessary for compliance with a legal obligation to which you are subject; (iv) processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in us; (v) processing is necessary for the purposes of the legitimate interests pursued by us or by a third party.
 
