@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Windfall Residential Energy Efficiency Protocol (WREEP) Project](README.md)
+* [WREEP Community Docs](README.md)
 * [Project Overview](project.md)
 
 ## web3 <a href="#community" id="community"></a>
