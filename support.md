@@ -6,8 +6,8 @@ Support for the WREEP Community is provided by [SuperBenefit's WREEP Cell](suppo
 
 These helpful articles are created by the community using information curated from the web3 ecosystem:
 
-- [An Overview of web3](community/guides/web3.md)
-- [Creating a web3 Wallet](community/guides/wallets.md)
+- [An Overview of web3](guides/web3.md)
+- [Creating a web3 Wallet](guides/wallets.md)
 
 How-to guides are created by the community upon request. You can request a new guide using the contact info in the "[How to Get Help](support.md#how-to-get-help)" section below.&#x20;
 
