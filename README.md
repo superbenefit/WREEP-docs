@@ -16,7 +16,7 @@ layout:
 
 Community documentation for the Windfall Residential Energy Efficiency Protocol (WREEP) project.
 
-## [Windfall Residential Energy Efficiency Protocol (WREEP) Project](project.md)
+## [WREEP Project](project.md)
 
 WREEP is a collaborative effort to design a decentralized protocol addressing multi-party coordination challenges faced by place-based energy efficiency initiatives.
 
