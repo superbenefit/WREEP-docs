@@ -1,6 +1,6 @@
 # WREEP Community Membership
 
-## The "Community Member" Role
+## Community Members
 
 Community Members are responsible for generating feedback and signals (such as approval or dissent) for various aspects and stages of the protocol during its development. Its continuing purpose will be to contribute to the ongoing development of he protocol including decentralized coordination tooling, services, infrastructure, and incentives in the context of place-based energy and efficiency retrofit initiatives.
 

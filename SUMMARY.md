@@ -3,11 +3,20 @@
 * [Windfall Residential Energy Efficiency Protocol (WREEP) Project](README.md)
 * [Project Overview](project.md)
 
-***
+## web3 <a href="#community" id="community"></a>
 
-* [WREEP Community](community/README.md)
-  * [Membership](community/membership.md)
+* [Community](community/README.md)
+  * [Roles](community/roles.md)
   * [Rewards](community/token.md)
+
+## Guides <a href="#guides" id="guides"></a>
+
 * [Guides](guides/README.md)
   * [An Overview of Web3](guides/web3.md)
   * [Creating a web3 Wallet](guides/wallets.md)
+
+***
+
+* [Code of Conduct](code\_of\_conduct.md)
+* [Privacy Policy](privacy\_policy.md)
+* [Tech Support](support.md)
