@@ -29,3 +29,9 @@ Community members may opt-in to receive our social token ($ENERGY). Tokens are m
 * Attending or hosting community events
 * Signaling in the forums and "voting" space.
 * Creating and curating useful resources for others.
+
+## Community Health Resources
+
+- [Code of Conduct](https://github.com/superbenefit/WREEP-docs/blob/main/code_of_conduct.md)
+- [Privacy Policy](https://github.com/superbenefit/WREEP-docs/blob/main/privacy_policy.md)
+- [Tech Support](https://github.com/superbenefit/WREEP-docs/blob/main/support.md)
