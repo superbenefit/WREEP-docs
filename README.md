@@ -12,15 +12,15 @@ layout:
     visible: false
 ---
 
-# WREEP Project Community Docs
+# WREEP Community Docs
 
-A blockchain-based protocol for multi-stakeholder coordination to accelerate residential energy efficiency retrofits.
+Community documentation for the Windfall Residential Energy Efficiency Protocol (WREEP) project.
 
 ## [Windfall Residential Energy Efficiency Protocol (WREEP) Project](project.md)
 
+WREEP is a collaborative effort to design a decentralized protocol addressing multi-party coordination challenges faced by place-based energy efficiency initiatives.
 
-
-The purpose of the WREEP project is to design a blockchain-based protocol to help address multi-party coordination challenges faced by place-based energy efficiency initiatives.
+The goal of this project is to create an energy efficiency labeling protocol design (litepaper) to augment residential energy retrofit efforts currently underway as part of the Canada Greener Homes Initiative.
 
 * [WREEP Project Overview](project.md)
 
@@ -36,12 +36,16 @@ Community Membership is open to all individuals who wish to participate. Prospec
 
 ---
 
-## Web3 Guides
+## [Web3 Guides](guides/)
+
+The WREEP Community provides members an opportunity to explore web3 tools and concepts while earning roles and participation rewards.
+
+These [guides](guides/) have been created by the community to help members learn the basic skills of web3:
 
 * [An Overview of web3](guides/web3.md)
 * [Creating a web3 Wallet](guides/wallets.md)
 
-How-to guides are created by the community upon request. Visit the [Support](support.md) page to learn how to request a new article.
+How-to guides are created upon request. Visit the [Support](support.md) page to learn how to request a new article.
 
 ---
 
