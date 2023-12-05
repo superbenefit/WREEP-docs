@@ -54,3 +54,5 @@ How-to guides are created upon request. Visit the [Support](support.md) page to 
 * [Code of Conduct](code\_of\_conduct.md)
 * [Privacy Policy](privacy\_policy.md)
 * [Technical Support](support.md)
+
+The WREEP community is hosted by the WREEP cell at SuperBenefit DAO. Check out the [Support](support.md) page for more information.

@@ -37,3 +37,17 @@ Follow the steps below to join the WREEP community and receive your NFT role bad
 * Fill out the [Signup Form](https://wreep.deform.cc/community-signup) to receive your WREEP Community Member role badge.
 * Wait for a member of the project team to process your application. The team member will then ping you in the chat and welcome you to the community.
 * Start participating in project conversations in Discord.
+
+## Project Stewards
+
+Project Stewards are delegates of the projects contributing organizations who oversee delivery of the funded project. Groups represented by the Project Stewards include:
+
+* [Windfall Ecology Centre](https://windfallcentre.ca/)
+* [Natural Resources Canada](https://natural-resources.canada.ca/home)
+* [Possbilian](https://possibilian.xyz/)
+* [SuperBenefit](https://superbenefit.org/)
+* [BlockScience](https://block.science/)
+
+The stewardship group is responsible for contributing to growth of project, community, and stakeholder groups. To ensure operational alignment with the terms of the initial proposal, Stewards may exercise collective veto power on any community proposals over the course of the project (until March 31st, 2024).
+
+Stewards will attend monthly meetings via Zoom. Meeting minutes will be included in this repository as they are available.

@@ -1,4 +1,5 @@
-# Project Overview
+# Windfall Residential Energy Efficiency Protocol (WREEP) Project
+<!--It's a working title.-->
 
 Energy usage in residential buildings is one of the largest contributors to greenhouse gas emissions.
 
@@ -17,12 +18,6 @@ WREEP is split across 3 different phases with 3 distinct groups who contribute i
 ## **Contributing Groups**
 
 1. **Project Stewardship group** - funders and facilitators of the initial phase of the project (see below).
-2. **Pilot Stakeholder Group** - organisations and individuals who directly contribute insights, research and perspectives to the development of the Litepaper (phase 1) and to the implementation of the pilot (phase 2).&#x20;
-3. **Project Community** - the wider community, which includes groups 1 & 2 (above), but also organisations and individuals from around the world and across sectors who have an interest in this project and its wider applications beyond the Litepaper and the specific implementation of the initial pilot project. This group will also explore possibilities for raising funds to implement the protocol as well as to innovate on opportunities that it might create.&#x20;
-
-## Project Stewards
-
-Project Stewards are delegates of the projects contributing organizations who oversee delivery of the funded project. Groups represented by the Project Stewards include:
 
 * [Windfall Ecology Centre](https://windfallcentre.ca/)
 * [Natural Resources Canada](https://natural-resources.canada.ca/home)
@@ -30,6 +25,5 @@ Project Stewards are delegates of the projects contributing organizations who ov
 * [SuperBenefit](https://superbenefit.org/)
 * [BlockScience](https://block.science/)
 
-The stewardship group is responsible for contributing to growth of project, community, and stakeholder groups. To ensure operational alignment with the terms of the initial proposal, Stewards may exercise collective veto power on any community proposals over the course of the project (until March 31st, 2024).
-
-Stewards will attend monthly meetings via Zoom. Meeting minutes will be included in this repository as they are available.
+1. **Pilot Stakeholder Group** - organisations and individuals who directly contribute insights, research and perspectives to the development of the Litepaper (phase 1) and to the implementation of the pilot (phase 2).&#x20;
+2. **Project Community** - the wider community, which includes groups 1 & 2 (above), but also organisations and individuals from around the world and across sectors who have an interest in this project and its wider applications beyond the Litepaper and the specific implementation of the initial pilot project. This group will also explore possibilities for raising funds to implement the protocol as well as to innovate on opportunities that it might create.&#x20;
