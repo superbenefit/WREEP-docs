@@ -3,6 +3,8 @@
 * [WREEP Community Docs](README.md)
 * [Project Overview](project.md)
 
+***
+
 ## web3 <a href="#community" id="community"></a>
 
 * [Community](community/README.md)
