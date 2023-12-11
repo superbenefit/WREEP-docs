@@ -1,6 +1,4 @@
-# WREEP Community Roles
-
-## Community Members
+# WREEP Community Membership
 
 Community Members are responsible for generating feedback and signals (such as approval or dissent) for various aspects and stages of the protocol during its development. Its continuing purpose will be to contribute to the ongoing development of he protocol including decentralized coordination tooling, services, infrastructure, and incentives in the context of place-based energy and efficiency retrofit initiatives.
 
@@ -18,15 +16,14 @@ To be considered active and eligible for rewards, all community members must mak
 Community members are expected to adhere to these eligibility requirements in order to retain access and privileges tied to their membership.
 
 * Maintain a self-custody [Ethereum wallet](guides/wallets.md)
-* Adhere to the [Code of Conduct](../CODE\_OF\_CONDUCT.md)
+* Adhere to the [Code of Conduct](code\_of\_conduct.md)
+* Consent to the [Privacy Policy](privacy\_policy.md)
 
 This community is managed by SuperBenefit's WREEP Web3 Core Team, who reserve the right to change eligibility requirements, remove inactive members and otherwise alter the terms of membership as needed during the project.
 
-### Rewards for Participation
+---
 
-Participation in this project will be tracked using [Sourcecred](https://github.com/superbenefit/sourcecred). Participants will be awarded our community token, $ENERGY (⚡), to acknowledge their engagement and contributions. You can learn more about how to earn $ENERGY [here](token.md).
-
-### How To Join
+## How to Join
 
 Membership is available to all aligned members of the web3 community. To join, you must agree to [code of conduct and privacy policy](../code\_of\_conduct.md).
 
@@ -38,16 +35,8 @@ Follow the steps below to join the WREEP community and receive your NFT role bad
 * Wait for a member of the project team to process your application. The team member will then ping you in the chat and welcome you to the community.
 * Start participating in project conversations in Discord.
 
-## Project Stewards
+---
 
-Project Stewards are delegates of the projects contributing organizations who oversee delivery of the funded project. Groups represented by the Project Stewards include:
+## Rewards for Participation
 
-* [Windfall Ecology Centre](https://windfallcentre.ca/)
-* [Natural Resources Canada](https://natural-resources.canada.ca/home)
-* [Possbilian](https://possibilian.xyz/)
-* [SuperBenefit](https://superbenefit.org/)
-* [BlockScience](https://block.science/)
-
-The stewardship group is responsible for contributing to growth of project, community, and stakeholder groups. To ensure operational alignment with the terms of the initial proposal, Stewards may exercise collective veto power on any community proposals over the course of the project (until March 31st, 2024).
-
-Stewards will attend monthly meetings via Zoom. Meeting minutes will be included in this repository as they are available.
+Participation in this project will be tracked using [Sourcecred](https://github.com/superbenefit/sourcecred). Participants will be awarded our community token, $ENERGY (⚡), to acknowledge their engagement and contributions. You can learn more about how to earn $ENERGY [here](token.md).
