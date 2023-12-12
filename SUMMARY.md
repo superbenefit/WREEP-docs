@@ -7,9 +7,10 @@
 
 ## web3 <a href="#community" id="community"></a>
 
-* [Community](community/README.md)
-  * [Roles](community/roles.md)
-  * [Rewards](community/token.md)
+* [Community](overview.md)
+  * [Membership](members.md)
+  * [Rewards](token.md)
+
 * [Guides](guides/README.md)
   * [An Overview of Web3](guides/web3.md)
   * [Creating a web3 Wallet](guides/wallets.md)
