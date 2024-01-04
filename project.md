@@ -26,5 +26,3 @@ Project Stewards are delegates of the projects contributing organizations who ov
 * [BlockScience](https://block.science/)
 
 The stewardship group is responsible for contributing to growth of project, community, and stakeholder groups. To ensure operational alignment with the terms of the initial proposal, Stewards may exercise collective veto power on any community proposals over the course of the project (until March 31st, 2024).
-
-Stewards will attend monthly meetings via Zoom. Meeting minutes will be included in this repository as they are available.
