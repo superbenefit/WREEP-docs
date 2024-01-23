@@ -2,7 +2,7 @@
 
 We respect your privacy and are committed to protecting it through our compliance with this privacy policy.
 
-This Policy describes the types of information we may collect from you or that you may provide (“Personal Information”) on the wreep.docs.superbeneft.org website, forms or Discord server (“Website” or “Service”) and any of its related products and services (collectively, “Services”), and our practices for collecting, using, maintaining, protecting, and disclosing that Personal Information. It also describes the choices available to you regarding our use of your Personal Information and how you can access and update it. Collection of Information
+This Policy describes the types of information we may collect from you or that you may provide (“Personal Information”) on the wp.docs.superbeneft.org website, forms or Discord server (“Website” or “Service”) and any of its related products and services (collectively, “Services”), and our practices for collecting, using, maintaining, protecting, and disclosing that Personal Information. It also describes the choices available to you regarding our use of your Personal Information and how you can access and update it. Collection of Information
 
 Our top priority is customer data security and, as such, we exercise the no logs policy. We may process only minimal user data, only as much as it is absolutely necessary to maintain the Website and Services. Information collected automatically is used only to identify potential cases of abuse and establish statistical information regarding the usage and traffic of the Website and Services. This statistical information is not otherwise aggregated in such a way that would identify any particular user of the system. Privacy of children
 

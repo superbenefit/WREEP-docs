@@ -1,6 +1,6 @@
 # Table of contents
 
-* [WREEP Community Docs](README.md)
+* [Windfall Protocol Community Docs](README.md)
 * [Project Overview](project.md)
 
 ***

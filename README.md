@@ -12,21 +12,21 @@ layout:
     visible: false
 ---
 
-# WREEP Community Docs
+# Windfall Protocol Community Docs
 
-Community documentation for the Windfall Residential Energy Efficiency Protocol (WREEP) project.
+Community documentation for the Windfall Protocol project.
 
-## [WREEP Project](project.md)
+## [Windfall Protocol Project](project.md)
 
-WREEP is a collaborative effort to design a decentralized protocol addressing multi-party coordination challenges faced by place-based energy efficiency initiatives.
+Windfall Protocol is a collaborative effort to design a decentralized protocol addressing multi-party coordination challenges faced by place-based energy efficiency initiatives.
 
 The goal of this project is to create an energy efficiency labeling protocol design (litepaper) to augment residential energy retrofit efforts currently underway as part of the Canada Greener Homes Initiative.
 
-* [WREEP Project Overview](project.md)
+* [Project Overview](project.md)
 
 ---
 
-## [WREEP Community](community/)
+## [Windfall Protocol Community](community/)
 
 The goal of the community is to contribute ideas and resources to the development and implementation of the energy efficiency protocol itself, as well as suggestion and developing innovation on top of the protocol.
 
@@ -38,7 +38,7 @@ Community Membership is open to all individuals who wish to participate. Prospec
 
 ## [Web3 Guides](guides/)
 
-The WREEP Community provides members an opportunity to explore web3 tools and concepts while earning roles and participation rewards.
+The Windfall Protocol Community provides members an opportunity to explore web3 tools and concepts while earning roles and participation rewards.
 
 These [guides](guides/) have been created by the community to help members learn the basic skills of web3:
 
@@ -55,4 +55,4 @@ How-to guides are created upon request. Visit the [Support](support.md) page to 
 * [Privacy Policy](privacy\_policy.md)
 * [Technical Support](support.md)
 
-The WREEP community is hosted by the WREEP cell at SuperBenefit DAO. Check out the [Support](support.md) page for more information.
+The Windfall Protocol community is hosted by the WP cell at SuperBenefit DAO. Check out the [Support](support.md) page for more information.

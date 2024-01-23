@@ -6,7 +6,7 @@ description: >-
 
 # Rewards
 
-Members of the WREEP community can earn rewards by taking certain actions within community spaces.
+Members of the Windfall Protocol Community can earn rewards by taking certain actions within community spaces.
 
 These **non-financial** rewards are meant to recognize those who bring value to the community by interacting with others, sharing knowledge, attending events and participating an a variety of other ways.&#x20;
 
@@ -15,7 +15,7 @@ These **non-financial** rewards are meant to recognize those who bring value to 
 Community Members will be rewarded for their participation via the [$ENERGY token](token.md). Members can opt-in to receive these tokens, and earn them by taking a variety of actions within the community:
 
 * Attending monthly or bi-weekly events
-* Participating in the #wreep-community chat
+* Participating in the #wp-community chat
 * Sharing ideas for community events and new resources
 * Creating helpful resources and how-to's for the community
 * Hosting community events and facilitating collabs between members
@@ -30,7 +30,7 @@ Community Members will be rewarded for their participation via the [$ENERGY toke
 
 <summary><strong>Who is eligible to earn $ENERGY?</strong></summary>
 
-Everyone in the WREEP project! Tokens go to members of the Project Community. You can join the Project Community [here](https://wreep.docs.superbenefit.org/community/community).
+Everyone in the Windfall Protocol project! Tokens go to members of the Project Community. You can join the Project Community [here](https://wp.docs.superbenefit.org/community/community).
 
 </details>
 

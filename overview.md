@@ -1,6 +1,6 @@
-# WREEP Project Community
+# Windfall Protocol Project Community
 
-In addition to its [core scope of work](project.md), the WREEP project will gather a digital community to promote the exploration and adoption of emerging coordination tools for place-based energy efficiency initiatives.
+In addition to its [core scope of work](project.md), the Windfall Protocol project will gather a digital community to promote the exploration and adoption of emerging coordination tools for place-based energy efficiency initiatives.
 
 This community will follow the project and contribute to its development by generating signals, sharing ideas and advocating for the adoption emerging coordination tools for improving energy efficiency in the built environment. &#x20;
 
@@ -10,9 +10,9 @@ This community will follow the project and contribute to its development by gene
 
 ## Membership
 
-The WREEP Community is open to all aligned individuals who wish to learn about and discuss regenerative, place-based coordination tooling.
+The Windfall Protocol Community is open to all aligned individuals who wish to learn about and discuss regenerative, place-based coordination tooling.
 
-Members will receive an NFT membership badge granting access to real-time chat channels, signaling ("voting") spaces, participation rewards and other WREEP Community benefits.
+Members will receive an NFT membership badge granting access to real-time chat channels, signaling ("voting") spaces, participation rewards and other Community benefits.
 
 [Community Membership](community/roles.md)
 

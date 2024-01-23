@@ -4,7 +4,7 @@ We want this to be a fun, pleasant, and harassment-free experience for everyone,
 
 ## Platform Guidelines
 
-We use Discord and GiHub to host community spaces. Use of these platforms requires adherence to the Discord [terms](https://discord.com/terms) and [guidelines](https://discord.com/guidelines), as well as the GitHub [terms of service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service). These should be assumed to be in effect in the WREEP community as well.
+We use Discord and GiHub to host community spaces. Use of these platforms requires adherence to the Discord [terms](https://discord.com/terms) and [guidelines](https://discord.com/guidelines), as well as the GitHub [terms of service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service). These should be assumed to be in effect in the Windfall Protocol community as well.
 
 Our Discord space is hosted on the [SuperBenefit](https://superbenefit.org/) server. Please read and adhere to all SuperBenefit server rules and respect our shared spaces.
 
@@ -24,7 +24,7 @@ Offensive comments related to gender, gender identity and expression, sexual ori
 
 ## Reporting
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the WREEP Core Team using the contact info displayed in the #wreep-info channel. They'll respond as promptly as they can.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the Windfall Protocol web3 Core Team using the contact info displayed in the #wp-info channel. They'll respond as promptly as they can.
 
 We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them. We will not name harassment victims without their affirmative consent.
 

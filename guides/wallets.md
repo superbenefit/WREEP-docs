@@ -8,7 +8,7 @@ description: >-
 
 The word wallet in web3 is a bit misleading, because really it’s much more than a place to store currency. It’s more like your passport to web3, an identity card, gallery, and safety deposit box combined.
 
-For the WREEP project, we'll be guiding people to use Zerion's wallet, but if you already have experience managing your own wallet, or want to explore other options, feel free to use whatever you're most comfortable with.
+For the Windfall Protocol project, we'll be guiding people to use Zerion's wallet, but if you already have experience managing your own wallet, or want to explore other options, feel free to use whatever you're most comfortable with.
 
 ## Get your Zerion Smart Wallet
 
@@ -26,7 +26,7 @@ When you select create new wallet, you'll be prompted to choose a 6 digit passco
 
 Zerion will take you through a very short tutorial on safety practices while your wallet is being created, and once it is, you will have your own address to use across any blockchain that the Zerion app supports. As soon as the wallet is created, the app will ask if you want to backup your wallet in case your device is lost or stolen. Tap through on the backup button and select one of the two methods that are available: backing up through iCloud/Google Drive or a Manual backup. If you're brand new to the space, we suggest choosing the iCloud/Google option.
 
-You won't need any funds in your wallet to participate in all the aspects of the WREEP project, but you might if you want to explore other parts of the web3 space. If you do choose to keep any significant funds in your wallet, please be aware that best practice is to keep your secret phrase stored physically in a secure location, and choosing the Manual option would be what you'd want to do here. You can also create multiple wallets if you want to start out just using a seed phrase stored in iCloud/Google Drive and decide you want to explore more of the space later, so don't feel like this will restrict you going forward.
+You won't need any funds in your wallet to participate in all the aspects of the Windfall Protocol project, but you might if you want to explore other parts of the web3 space. If you do choose to keep any significant funds in your wallet, please be aware that best practice is to keep your secret phrase stored physically in a secure location, and choosing the Manual option would be what you'd want to do here. You can also create multiple wallets if you want to start out just using a seed phrase stored in iCloud/Google Drive and decide you want to explore more of the space later, so don't feel like this will restrict you going forward.
 
 Once you have your seed phrase backed up, you're free to start exploring the web3 space! If it's relevant, a site will usually have a 'Connect Wallet' button somewhere, tapping that should allow you to connect your wallet. We'll be using a platform called Snapshot for voting, look out for a guide on how to connect and use it soon.
 
