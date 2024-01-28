@@ -10,11 +10,11 @@ Our Discord space is hosted on the [SuperBenefit](https://superbenefit.org/) ser
 
 ## Confidentiality
 
-Please keep what's said in Discord confidential. Don't repeat, quote, or otherwise share things said here without the affirmative consent of the speaker(s).
+Windfall Protocol Community chat channels, discussion forums and events use [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham\_House\_rule) unless noted otherwise. While you are free to share information from these channels, please do not reveal the identity or affiliation of anyone in the group when doing do.
 
 Be mindful that things you say here may at some point become public. While we expect members to honor the confidentiality of this space, we cannot guarantee that they will do so--nor can we guarantee that every member's login credentials and logged-in devices are secure. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public.
 
-**All communication on GitHub is public**. Please keep in mind that anything you post or commit to our GitHub repositories will be visible to anyone on the internet.
+**All information on GitHub is public**. Please keep in mind that anything you post or commit to our GitHub repositories will be visible to anyone on the internet.
 
 ## Harassment
 
