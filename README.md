@@ -1,5 +1,11 @@
 ---
+description: Community documentation for the Windfall Protocol project.
+cover: .gitbook/assets/8c5364b3-f57a-4039-95fb-4dc14c6c7f19.png
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: hero
   title:
     visible: true
   description:
@@ -14,7 +20,9 @@ layout:
 
 # Windfall Protocol Community Docs
 
-Community documentation for the Windfall Protocol project.
+* [**Event Calendar**](https://lu.ma/wreep)
+* [**Community Chat**](https://discord.com/invite/6mDepqjgh2)
+* [**Join the Community**](https://wreep.deform.cc/community-signup/)
 
 ## [Windfall Protocol Project](project.md)
 
@@ -24,7 +32,7 @@ The goal of this project is to create an energy efficiency labeling protocol des
 
 * [Project Overview](project.md)
 
----
+***
 
 ## [Windfall Protocol Community](community/)
 
@@ -34,7 +42,7 @@ Community Membership is open to all individuals who wish to participate. Prospec
 
 * [Community Signup Form](https://wreep.deform.cc/community-signup/)
 
----
+***
 
 ## [Web3 Guides](guides/)
 
@@ -47,7 +55,7 @@ These [guides](guides/) have been created by the community to help members learn
 
 How-to guides are created upon request. Visit the [Support](support.md) page to learn how to request a new article.
 
----
+***
 
 ## Other Info
 
