@@ -10,14 +10,14 @@ These **non-financial** rewards are meant to recognize those who bring value to 
 
 ## Community Token ($ENERGY)
 
-Community Members will be rewarded for their participation via the [$ENERGY token](rewards.md). Members can opt in to receive these tokens by filling out the [Sign-Up Form](https://wreep.deform.cc/community-signup/).
+Community Members will be rewarded for their participation via the [$ENERGY token](token.md). Members can opt in to receive these tokens by filling out the [Sign-Up Form](https://wreep.deform.cc/community-signup/).
 
 * Completing onboarding quests
 * Attending community calls and other events
 * Participating in the Windfall Protocol discord channels
 * Sharing ideas, networking and inviting others to the community
 
-[$ENERGY](rewards.md) is used to unlock free digital collectibles and exclusive experiences. It also provides an onchain contribution graph to enable future utility drops like special recognition, contribution opportunities, governance weight or other non-financial benefits. It is intended to have **zero monetary value** (even in the future).
+[$ENERGY](token.md) is used to unlock free digital collectibles and exclusive experiences. It also provides an onchain contribution graph to enable future utility drops like special recognition, contribution opportunities, governance weight or other non-financial benefits. It is intended to have **zero monetary value** (even in the future).
 
 ***
 

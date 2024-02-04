@@ -1,14 +1,16 @@
 # Membership
 
-Non-members are still invited to attend welcome events and monthly Town Hall calls, submit feedback and author/vote on community proposals.
+Windfall Protocol Community membership is open to the public and free for everyone. Members get access to community discussion spaces, digital collectibles and other perks. Retrospective benefits may also be granted to active community members as the project matures into its fundraising and implementation phases.
+
+If you don't want to join the community, you're still invited to attend our bi-weekly community calls and receive email updates by signing up to [our community calendar](https://lu.ma/wreep).
 
 ## How to Join
 
-Membership is available to all aligned members of the web3 community who consent to the [code of conduct](../code\_of\_conduct.md) and [privacy policy](../privacy\_policy.md).
+Membership is available to all aligned members of the web3 community who consent to the [code of conduct](code\_of\_conduct.md) and [privacy policy](privacy\_policy.md).
 
 Follow the steps below to join the Windfall Protocol community and receive your NFT role badge:
 
-* Create an Ethereum Wallet (see [Creating a web3 Wallet](../guides/wallets.md))
+* Create an Ethereum Wallet (see [Creating a web3 Wallet](guides/wallets.md))
 * Join the [SuperBenefit Discord Server](https://discord.gg/6mDepqjgh2)
 * Fill out the [Signup Form](https://wreep.deform.cc/community-signup) to receive your Community Member role badge.
 * Wait for a member of the project team to process your application.
@@ -32,9 +34,9 @@ To be considered active and eligible for rewards, community members should make 
 
 Community members are expected to adhere to these eligibility requirements in order to retain access and privileges tied to their membership.
 
-* Maintain a secure [Ethereum wallet](../guides/wallets.md)
-* Adhere to the [Code of Conduct](../code\_of\_conduct.md)
-* Consent to the [Privacy Policy](../privacy\_policy.md)
+* Maintain a secure [Ethereum wallet](guides/wallets.md)
+* Adhere to the [Code of Conduct](code\_of\_conduct.md)
+* Consent to the [Privacy Policy](privacy\_policy.md)
 
 This community is managed by SuperBenefit's Windfall Protocol web3 Core Team, who reserve the right to change eligibility requirements, remove inactive members and otherwise alter the terms of membership as needed during the project.
 
@@ -50,4 +52,4 @@ Check out the [Hats Protocol Docs](https://docs.hatsprotocol.xyz/using-hats/esse
 
 ## Rewards
 
-Participation in this project will be tracked using [Sourcecred](https://github.com/superbenefit/sourcecred) and [Wonderverse Quests](https://wonderverse.com/). Participants will be awarded our community token, $ENERGY (⚡), to acknowledge their engagement and contributions. You can learn more about how to earn $ENERGY [here](rewards.md).
+Participation in this project will be tracked using [Sourcecred](https://github.com/superbenefit/sourcecred) and [Wonderverse Quests](https://wonderverse.com/). Participants will be awarded our community token, $ENERGY (⚡), to acknowledge their engagement and contributions. You can learn more about how to earn $ENERGY [here](token.md).

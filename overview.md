@@ -1,6 +1,6 @@
 # Community
 
-In addition to its [core scope of work](../project.md), the Windfall Protocol project is gathering a digital community to learn about the protocol and help to inform its design.
+In addition to its [core scope of work](project.md), the Windfall Protocol project is gathering a digital community to learn about the protocol and help to inform its design.
 
 This Windfall Protocol Community will follow the project through its design phase and contribute to its development by generating signals and sharing ideas & feedback. We also hope to serve as a gathering place for industry experts, web3 builders and others to network and discuss various approaches to place-based resource coordination challenges.
 
@@ -16,7 +16,7 @@ The Windfall Protocol Community is open to all aligned individuals who wish to l
 
 Members will receive an NFT membership badge granting access to real-time chat channels, signaling spaces, participation rewards and other Community benefits.
 
-[Community Membership](roles.md)
+[Community Membership](community/roles.md)
 
 [Community Sign-Up Form](https://wreep.deform.cc/community-signup/)
 
@@ -31,6 +31,6 @@ Community members may opt-in to receive rewards by completing the [sign-up form]
 
 ## Community Health Resources
 
-* [Code of Conduct](../code\_of\_conduct.md)
-* [Privacy Policy](../privacy\_policy.md)
-* [Tech Support](../support.md)
+* [Code of Conduct](code\_of\_conduct.md)
+* [Privacy Policy](privacy\_policy.md)
+* [Tech Support](support.md)
