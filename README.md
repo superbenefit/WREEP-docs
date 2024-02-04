@@ -24,7 +24,7 @@ layout:
 * [**Community Chat**](https://discord.com/invite/6mDepqjgh2)
 * [**Join the Community**](https://wreep.deform.cc/community-signup/)
 
-## [Windfall Protocol Project](project.md)
+## [Windfall Protocol Litepaper Project](project.md)
 
 Windfall Protocol is a collaborative effort to design a decentralized protocol addressing multi-party coordination challenges faced by place-based energy efficiency initiatives.
 
@@ -61,6 +61,6 @@ How-to guides are created upon request. Visit the [Support](support.md) page to 
 
 * [Code of Conduct](code\_of\_conduct.md)
 * [Privacy Policy](privacy\_policy.md)
-* [Technical Support](support.md)
+* [Support](support.md)
 
 The Windfall Protocol community is hosted by the WP cell at SuperBenefit DAO. Check out the [Support](support.md) page for more information.
