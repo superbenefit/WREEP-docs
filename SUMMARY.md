@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Windfall Protocol Community Docs](README.md)
+* [Windfall Protocol](README.md)
 * [Project Overview](project.md)
-* [Community](community.md)
+* [Windfall Protocol Community](community.md)
   * [Membership](membership.md)
   * [Rewards](rewards.md)
 * [Guides](guides/README.md)

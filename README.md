@@ -18,7 +18,7 @@ layout:
     visible: false
 ---
 
-# Windfall Protocol Community Docs
+# Windfall Protocol
 
 * [**Event Calendar**](https://lu.ma/wreep)
 * [**Community Chat**](https://discord.com/invite/6mDepqjgh2)
@@ -53,7 +53,7 @@ These [guides](guides/) have been created by the community to help members learn
 * [An Overview of web3](guides/web3.md)
 * [Creating a web3 Wallet](guides/wallets.md)
 
-How-to guides are created upon request. Visit the [Support](support.md) page to learn how to request a new article.
+How-to guides are created upon request. Visit the [Support](broken-reference) page to learn how to request a new article.
 
 ***
 
@@ -63,4 +63,4 @@ How-to guides are created upon request. Visit the [Support](support.md) page to 
 * [Privacy Policy](privacy\_policy.md)
 * [Support](support.md)
 
-The Windfall Protocol community is hosted by the WP cell at SuperBenefit DAO. Check out the [Support](support.md) page for more information.
+The Windfall Protocol community is hosted by the WP cell at SuperBenefit DAO. Check out the [Support](broken-reference) page for more information.

@@ -4,20 +4,22 @@ description: Participation rewards for active members of the Windfall Protocol C
 
 # Rewards
 
-Members can earn rewards through their participation in discussions and community activities.
+Members can earn rewards (digital collectables) through their participation in discussions and community activities.
 
-These **non-financial** rewards are meant to recognize those who bring value to the community by interacting with others, sharing knowledge, attending events and engaging in a variety of other ways.
+These **non-financial** rewards are meant to recognize those who bring value to the community by interacting with others, sharing knowledge, inviting new members, attending events and engaging in a variety of other ways.
+
+Rewards are issued on the [Optimism Network](https://www.optimism.io/), creating a publicly verifiable, privacy-preserving record of participation in the Windfall Protocol community. In the future, the community _may_ choose to use reward balances for coordination purposes such as reputation, token gating or governance distributions.
 
 ## Community Token ($ENERGY)
 
-Community Members will be rewarded for their participation via the [$ENERGY token](token.md). Members can opt in to receive these tokens by filling out the [Sign-Up Form](https://wreep.deform.cc/community-signup/).
+Community Members will be rewarded for their participation via the [$ENERGY token](https://optimistic.etherscan.io/token/0xf60f3D09675fB6af320Db4c6b3e01AdE1e164d1C). Members can opt in to receive these tokens by filling out the [Sign-Up Form](https://wreep.deform.cc/community-signup/).
 
 * Completing onboarding quests
 * Attending community calls and other events
 * Participating in the Windfall Protocol discord channels
 * Sharing ideas, networking and inviting others to the community
 
-[$ENERGY](token.md) is used to unlock free digital collectibles and exclusive experiences. It also provides an onchain contribution graph to enable future utility drops like special recognition, contribution opportunities, governance weight or other non-financial benefits. It is intended to have **zero monetary value** (even in the future).
+[$ENERGY](https://optimistic.etherscan.io/token/0xf60f3D09675fB6af320Db4c6b3e01AdE1e164d1C) is used to unlock free digital collectibles and exclusive experiences. It also provides an onchain contribution graph to enable future utility drops like special recognition, contribution opportunities, governance weight or other non-financial benefits. It is intended to have **zero monetary value** (even in the future).
 
 ***
 
