@@ -3,7 +3,7 @@ cover: >-
   .gitbook/assets/DALL·E 2024-01-20 17.53.38 - Create an image with a 5x2 aspect
   ratio, also suitable for a 1 1 aspect ratio, focusing on environmental
   sustainability. Include themes of natural spa.png
-coverY: 401.07963118189434
+coverY: -404.848281642917
 layout:
   cover:
     visible: true
