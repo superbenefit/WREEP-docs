@@ -3,7 +3,7 @@ cover: >-
   .gitbook/assets/DALL·E 2024-01-20 17.53.38 - Create an image with a 5x2 aspect
   ratio, also suitable for a 1 1 aspect ratio, focusing on environmental
   sustainability. Include themes of natural spa.png
-coverY: -224
+coverY: -442.47443419949707
 layout:
   cover:
     visible: true
@@ -27,6 +27,8 @@ Windfall Protocol is a collaborative effort to design a decentralized protocol a
 The goal of this project is to create an energy efficiency labeling protocol design (litepaper) to augment residential energy retrofit efforts currently underway as part of the Canada Greener Homes Initiative.
 
 {% embed url="https://vimeo.com/924274634" fullWidth="false" %}
+A video overview of the Windfall Protocol project
+{% endembed %}
 
 ***
 
