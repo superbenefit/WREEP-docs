@@ -18,7 +18,7 @@ We've created options to streamline this process for both community members and 
 
 You can join the community using the [Signup Form](https://wreep.deform.cc/community-signup/) if you prefer not to use the self-service [Discord Quests](membership.md#option-1-community-quests). Follow these steps to submit your application:
 
-1. Create an Ethereum Wallet (see [Creating a web3 Wallet](guides/wallets.md))
+1. Create an Ethereum Wallet (see [Creating a web3 Wallet](community/guides/wallets.md))
 2. Join the [SuperBenefit Discord Server](https://discord.gg/6mDepqjgh2)
 3. Fill out the [Signup Form](https://wreep.deform.cc/community-signup)
 4. Wait for a member of the project team to process your application.
@@ -40,7 +40,7 @@ Follow these instructions to join the Windfall Protocol Community using our self
 
 ## Role Details
 
-Members are given the "[Windfall Protocol Community Member](https://app.hatsprotocol.xyz/trees/10/30?flipped=true\&hatId=30.1.1.2)" role in [SuperBenefit DAO](https://superbenefit.org/). This role may be revoked or replaced at the end of the [project](project.md).
+Members are given the "[Windfall Protocol Community Member](https://app.hatsprotocol.xyz/trees/10/30?flipped=true\&hatId=30.1.1.2)" role in [SuperBenefit DAO](https://superbenefit.org/). This role may be revoked or replaced at the end of the [project](litepaper.md).
 
 <details>
 
@@ -48,7 +48,7 @@ Members are given the "[Windfall Protocol Community Member](https://app.hatsprot
 
 Community members are expected to adhere to these eligibility requirements in order to retain access and privileges tied to their membership.
 
-* Maintain a secure [Ethereum wallet](guides/wallets.md)
+* Maintain a secure [Ethereum wallet](community/guides/wallets.md)
 * Adhere to the [Code of Conduct](code\_of\_conduct.md)
 * Consent to the [Privacy Policy](privacy\_policy.md)
 
