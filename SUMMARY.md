@@ -1,7 +1,10 @@
 # Table of contents
 
 * [Windfall Protocol](README.md)
-* [📃 Litepaper](litepaper.md)
+* [📃 Litepaper](litepaper/README.md)
+  * [Stakeholder Landscape](litepaper/stakeholders.md)
+  * [Program Requirements](litepaper/requirements.md)
+  * [Further Recommended Research](litepaper/further-research.md)
 * [🌳 Community](community.md)
   * [Membership](membership.md)
   * [Rewards](rewards.md)

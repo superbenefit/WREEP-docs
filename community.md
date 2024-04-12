@@ -11,7 +11,7 @@ coverY: 217
 
 Designed with composability and interoperability in mind, the Windfall Protocol is intended to provide its greatest utility when operating within ecosystems of complementary technologies and social systems. Discovering and integrating these tools is crucial to the long-term success of both the protocol and its intended users.&#x20;
 
-In addition to its [core scope of work](litepaper.md), the Windfall Protocol project is gathering a digital community of local representatives, industry experts and web3 builders to inform the protocol's design and identify potential relationships with ecosystem peers.&#x20;
+In addition to its [core scope of work](litepaper/), the Windfall Protocol project is gathering a digital community of local representatives, industry experts and web3 builders to inform the protocol's design and identify potential relationships with ecosystem peers.&#x20;
 
 With your help, we hope to answer these key questions:&#x20;
 
@@ -28,7 +28,7 @@ Each call will include Q\&A and/or open discussion periods, and members who cont
 
 * [Events Calendar ](https://lu.ma/wreep)
 
-Calls are hosted by the [Protocol Research Group](litepaper.md) on the [SuperBenefit Discord server](https://lu.ma/wreep) and may be recorded. Recordings of some past calls are included below.
+Calls are hosted by the [Protocol Research Group](litepaper/) on the [SuperBenefit Discord server](https://lu.ma/wreep) and may be recorded. Recordings of some past calls are included below.
 
 <table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th data-type="content-ref"></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><strong>Session #1</strong></td><td align="center">Project Introduction</td><td></td><td>No Recording</td><td><a href="https://poap.gallery/event/167819"><strong>Proof of Attendance</strong></a></td><td><a href=".gitbook/assets/wpcc-1-thumbnail.png">wpcc-1-thumbnail.png</a></td><td><a href="https://lu.ma/ipymwlcg">https://lu.ma/ipymwlcg</a></td></tr><tr><td align="center"><strong>Session #2</strong></td><td align="center">Topic TBD</td><td></td><td></td><td><a href="https://poap.gallery/event/168942"><strong>Proof of Attendance</strong></a></td><td><a href=".gitbook/assets/wpcc-2-thumbnail.png">wpcc-2-thumbnail.png</a></td><td><a href="https://lu.ma/zlxqfjz6">https://lu.ma/zlxqfjz6</a></td></tr></tbody></table>
 

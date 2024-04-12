@@ -23,7 +23,7 @@ layout:
 
 # Windfall Protocol
 
-The goal of this project is to create an energy efficiency labeling protocol design ([litepaper](litepaper.md)) to augment residential energy retrofit efforts currently underway as part of the Canada Greener Homes Initiative.
+The goal of this project is to create an energy efficiency labeling protocol design ([litepaper](litepaper/)) to augment residential energy retrofit efforts currently underway as part of the Canada Greener Homes Initiative.
 
 {% embed url="https://vimeo.com/924274634" fullWidth="false" %}
 A video overview of the Windfall Protocol project
@@ -35,8 +35,8 @@ Energy usage in residential buildings is one of the largest contributors to gree
 
 Governments at all levels have long recognized energy efficiency retrofits as effective programs that simultaneously achieve environment, employment, and civic awareness goals. Unlocking their full potential however is a massive multi-party coordination challenge across contractors, vendors, utility providers, and owners and occupants… a challenge further complicated by the scope and timing of benefits of efficiency investments extending well beyond an owner or occupants purchase decisions.
 
-{% content-ref url="litepaper.md" %}
-[litepaper.md](litepaper.md)
+{% content-ref url="litepaper/" %}
+[litepaper](litepaper/)
 {% endcontent-ref %}
 
 A central purpose of the Windfall Protocol project is to design a blockchain-enabled protocol that can help address these multi-party coordination challenges.
@@ -45,7 +45,7 @@ A central purpose of the Windfall Protocol project is to design a blockchain-ena
 
 Development of the Windfall Protocol will happen in several phases, covering the design and development of the protocol to implementation and ecosystem development.&#x20;
 
-1. [**Development of the Litepaper**](litepaper.md) - scoping the design of the protocol in collaboration with stakeholders from across all aspects of the residential retrofit space.
+1. [**Development of the Litepaper**](litepaper/) - scoping the design of the protocol in collaboration with stakeholders from across all aspects of the residential retrofit space.
 2. [**Implementation of the protocol**](./#durham-region-pilot) - delivering a pilot of the protocol for the Durham region in Canada.
 3. [**Broader ecosystem development**](community.md) - facilitating a wider community of interested parties to contribute ideas, funding and projects that innovate on the pilot version of the protocol.
 

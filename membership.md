@@ -40,7 +40,7 @@ Follow these instructions to join the Windfall Protocol Community using our self
 
 ## Role Details
 
-Members are given the "[Windfall Protocol Community Member](https://app.hatsprotocol.xyz/trees/10/30?flipped=true\&hatId=30.1.1.2)" role in [SuperBenefit DAO](https://superbenefit.org/). This role may be revoked or replaced at the end of the [project](litepaper.md).
+Members are given the "[Windfall Protocol Community Member](https://app.hatsprotocol.xyz/trees/10/30?flipped=true\&hatId=30.1.1.2)" role in [SuperBenefit DAO](https://superbenefit.org/). This role may be revoked or replaced at the end of the [project](litepaper/).
 
 <details>
 
