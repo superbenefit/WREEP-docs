@@ -16,6 +16,9 @@ layout:
 
 The Windfall Protocol is a decentralized protocol created to address multi-party coordination challenges faced by place-based energy efficiency initiatives.
 
+* [Litepaper Highlights](./#litepaper-highlights)
+* [**Request for Feedback**](./#request-for-feedback)
+
 Designed for real-world implementation as part of the [Canada Greener Homes](https://natural-resources.canada.ca/energy-efficiency/homes/canada-greener-homes-initiative/canada-greener-homes-grant/canada-greener-homes-grant/23441) initiative, the protocol will facilitate energy usage data sharing and efficiency retrofits for 200,000 homes in Durham Region, Canada.&#x20;
 
 The design of the protocol is described in its Litepaper, created by Jessica Zartler and Jeff Emmet of BlockScience ([credits](./#credits)), informed by representatives from community groups, municipal agencies and utility companies serving the region.
@@ -23,12 +26,6 @@ The design of the protocol is described in its Litepaper, created by Jessica Zar
 {% file src="../.gitbook/assets/The Windfall Protocol Report.pdf" %}
 Download the full Windfall Protocol Litepaper
 {% endfile %}
-
-Your feedback is important to the success of the protocol! Please continue reading for summaries and additional information about how you can give your feedback and get involved:
-
-* [Litepaper Highlights](./#litepaper-highlights)
-* [Executive Summary](./#executive-summary)
-* [**Request for Feedback**](./#request-for-feedback)
 
 ***
 
