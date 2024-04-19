@@ -21,17 +21,15 @@ The Windfall Protocol is a decentralized protocol created to address multi-party
 
 Designed for real-world implementation as part of the [Canada Greener Homes](https://natural-resources.canada.ca/energy-efficiency/homes/canada-greener-homes-initiative/canada-greener-homes-grant/canada-greener-homes-grant/23441) initiative, the protocol will facilitate energy usage data sharing and efficiency retrofits for 200,000 homes in Durham Region, Canada.&#x20;
 
-The design of the protocol is described in its Litepaper, created by Jessica Zartler and Jeff Emmet of BlockScience ([credits](./#credits)), informed by representatives from community groups, municipal agencies and utility companies serving the region.
+The design of the protocol is described in its Litepaper, created by Jessica Zartler and Jeff Emmett of BlockScience ([credits](./#credits)), informed by representatives from community groups, municipal agencies and utility companies serving the region.
 
-{% file src="../.gitbook/assets/The Windfall Protocol Report.pdf" %}
-Download the full Windfall Protocol Litepaper
-{% endfile %}
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-type="content-ref"></th><th data-type="files"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center"><strong>Download the Full Litepaper</strong></td><td></td><td><a href="../.gitbook/assets/The Windfall Protocol Report.pdf">The Windfall Protocol Report.pdf</a></td><td><a href="../.gitbook/assets/wp-og-luma.jpg">wp-og-luma.jpg</a></td></tr></tbody></table>
 
 ***
 
 ## Litepaper Highlights
 
-We recognize that some readers may find the full 43-page litepaper overwhelming, or may not have time to read the whole document. The Windfall Protocol Community has created these Litepaper Highlights to help you find the information that's important to you:
+We recognize that some readers may find the full 42-page litepaper overwhelming, or may not have time to read the whole document. The Windfall Protocol Community has created these Litepaper Highlights to help you find the information that's important to you:
 
 We welcome your [questions and feedback](./#request-for-feedback), regardless of your level of familiarity with the litepaper.
 
