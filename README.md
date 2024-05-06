@@ -23,7 +23,7 @@ layout:
 
 # Windfall Protocol
 
-The goal of this project is to create an energy efficiency labeling protocol design ([litepaper](litepaper/)) to augment residential energy retrofit efforts currently underway as part of the Canada Greener Homes Initiative.
+The goal of this project is to create an energy efficiency labeling protocol design ([litepaper](litepaper/)) to augment residential energy retrofit efforts currently underway as part of the [Durham Greener Homes](https://durhamgreenerhomes.ca) program.
 
 {% embed url="https://vimeo.com/924274634" fullWidth="false" %}
 A video overview of the Windfall Protocol project
